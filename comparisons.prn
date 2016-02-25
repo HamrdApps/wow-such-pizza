@@ -1,0 +1,24 @@
+The square-shaped pizza:
+   Whole: 
+      --Area: 144
+      --Rank: SMALL
+   Slice: 
+      --Area: 16
+      --Rank: SMALL
+
+The circle-shaped pizza:
+   Whole: 
+      --Area: 153.938
+      --Rank: MEDIUM
+   Slice: 
+      --Area: 19.2423
+      --Rank: MEDIUM
+
+The hexagon-shaped pizza:
+   Whole: 
+      --Area: 166.277
+      --Rank: LARGE
+   Slice: 
+      --Area: 27.7128
+      --Rank: LARGE
+
