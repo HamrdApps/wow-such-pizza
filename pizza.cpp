@@ -1,6 +1,6 @@
 #include <iostream>
 #include "pizza.h"
-#include "math.h"
+#include <math.h>
 
 using namespace std;
 

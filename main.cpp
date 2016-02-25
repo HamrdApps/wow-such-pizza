@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
         fout << endl;
       }
     cout << "file written!" << endl;
-    fout.close();
+    fout.close(); //close the output file stream
     }
 
 }
